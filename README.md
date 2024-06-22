@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mollylodge
 - 👀 I’m interested in graduating
-- 🌱 I’m currently learning scheme, XML, JavaScript, HTML, SQL
-- 💞️ I’m looking to collaborate on my software engineering project "WhatShouldIWatch?"
+- 🌱 I’m currently learning how to complete software testing
 - 📫 How to reach me via my phone number or Discord
 
 <!---
